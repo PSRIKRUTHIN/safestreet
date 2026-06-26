@@ -15,8 +15,7 @@ Project Overview
 -  Model: Vision Transformer (ViT)
 -  Framework: Pytorch
 -  Frontend:
-  - Mobile: React Native + Expo Go
-  - Web: React.js (admin panel) (in progress)
--  Backend: Node.js + Express (in progress)
--  Database: MongoDB (in progress)
+  - Web: React.js (admin panel) 
+-  Backend: Node.js + Express 
+-  Database: MongoDB 
 -  Dataset: Custom-labeled road damage image dataset
